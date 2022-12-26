@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.pth
+*.pth.tar
+*.json
+*.csv
+*.png
+*.jpg
+*.txt
+*.DS_Store
